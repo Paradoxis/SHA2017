@@ -4,6 +4,7 @@ All finished projects written during the SHA2017 camp
 
 ## Projects list
 * Badge Ransomware
+* Pong Multiplayer
 
 
 ## Badge Ransomware
@@ -17,3 +18,9 @@ decided to be nice and not do it.
 The ransomware consists of a client and a server, the client intially connects to the server
 to get a random secret and id (since the badge can't generate random data) and then locks the badge
 until the right secret is entered.
+
+
+## Pong Multiplayer
+Yup, mutliplayer pong on an event badge! The game allows you to play pong with another person through your badge.
+Use *UP / DOWN* for player one, and use *A / B* for player two. The game has bounce physics, ball randomisation and
+some other fun features. It's listed in the store under **games**.
