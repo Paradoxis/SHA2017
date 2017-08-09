@@ -1,0 +1,46 @@
+paradoxis@paradoxis:~$ nc -lvp 6969
+listening on [any] 6969 ...
+connect to [92.222.19.24] from ip-38-84-52-196.southampton.uk.amsterdamresidential.com [196.52.84.38] 54362
+What's up
+Using netcat?hows going
+
+ye
+Nice
+We're trying to make ransomware wbu
+is it a real person there?
+Yes lmao
+ahhaahah
+Where u at :D
+
+at the pixelflood bar
+you?
+Snowden field
+First big tent to the left
+ok, i'll visit you later, if it's cold i have a big pink hat
+Haha sweet, see you around
+I'll put my server back up
+Cy<3
+a!
+haffun
+wait
+Waddup
+hothow to push to hatchery
+Go to https://badge.sha2017.org/the docs are not clear
+
+Then create an account
+And upload via the GUI
+on the website you mean?
+Yeah :)
+Top right
+dunno i got a weird erro
+If you want I'll i think someone fucked something up
+help out
+Working here :o
+if we cannot figure out we'll drop by :)
+Feel free to pop by, we'll help you out
+thakns guys, that was unexpected and fun
+Haha yeah
+Cya!
+bye
+^C
+
