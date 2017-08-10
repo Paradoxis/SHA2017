@@ -32,6 +32,6 @@ some other fun features. It's listed in the store under **games**.
 ## Junior CTF
 On the second to last day of SHA, I decided to get my CTF game up and wanted to take part in the Junior CTF, sadly however this 
 ctf had already ended, meaning you couldn't win any prizes and such; however you could still do the challenge and get on the highscores.
-In the end I managed to get 100% of the flags which got me in the 171st place (out of the ~4k that took part, not sure on that figure though, I'll have to double check). I'd like to thank Rik van Duijn, Vincent van Elk for brainstorming on some challenges and an special thanks to an awesome guy who goes by the name of *perzik* for giving a hint on how to solve the last challenge: *reverse*.
+In the end I managed to get 100% of the flags which got me in the 171st place (out of the ~4k that took part, not sure on that figure though, I'll have to double check). I'd like to thank Rik van Duijn, Vincent van der Eijk for brainstorming on some challenges and an special thanks to an awesome guy who goes by the name of *perzik* for giving a hint on how to solve the last challenge: *reverse*.
 
 ![Screencap after getting 100% of the challenges done](https://raw.githubusercontent.com/Paradoxis/SHA2017/master/ctf/junior-ctf-100-percent.png)
