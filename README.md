@@ -22,6 +22,8 @@ until the right secret is entered.
 
 **Edit: SUNDAY** One of the badge admins liked the project and made it persistent, we also registered a duplicate called *The Legend of Zelda* which was another social engineering attack to get people to install the app as a game. We later found out that that version of the app tried to restore the `ascii_porn` app, which left your badge in a vegitative state. To the people whose badges we bricked, sorry :heart:. So far three people have showed up to ask about the ransomware but no Club Mate has been paid. :cry:
 
+**Edit: TUESDAY** Two people paid their ransom, seven badges were unlocked in total end one grumpy father didn't appreciate the joke.
+
 ## Pong Multiplayer
 Yup, mutliplayer pong on an event badge! The game allows you to play pong with another person through your badge.
 Use *UP / DOWN* for player one, and use *A / B* for player two. The game has bounce physics, ball randomisation and
